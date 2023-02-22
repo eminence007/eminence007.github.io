@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.2eff43bb.js",
+    "main.css": "/static/css/main.fe18d813.css",
+    "main.js": "/static/js/main.43bb9784.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/project3.png": "/static/media/project3.9b0fd716fa446fe0bee2.png",
+    "static/media/full-stack-developer.gif": "/static/media/full-stack-developer.3d34a570ec7d3100bed7.gif",
+    "static/media/project4.png": "/static/media/project4.30d0411c4cefdc78e32e.png",
+    "static/media/devImage.gif": "/static/media/devImage.2edef4c3158e6d01bcbb.gif",
+    "static/media/vibhorImage.png": "/static/media/vibhorImage.6f984c16eba92f1e5708.png",
+    "static/media/Vibhor_Resume.pdf": "/static/media/Vibhor_Resume.4ec652ba9c38d2d8f4e0.pdf",
+    "static/media/project1.png": "/static/media/project1.c7409f7d1e10379ecc9d.png",
+    "static/media/project2.png": "/static/media/project2.27069c3434da84292dcd.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.2eff43bb.js.map": "/static/js/main.2eff43bb.js.map",
+    "main.fe18d813.css.map": "/static/css/main.fe18d813.css.map",
+    "main.43bb9784.js.map": "/static/js/main.43bb9784.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.2eff43bb.js"
+    "static/css/main.fe18d813.css",
+    "static/js/main.43bb9784.js"
   ]
 }
